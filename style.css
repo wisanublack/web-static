@@ -1,0 +1,20 @@
+main {
+  margin-top: 2rem;
+}
+
+main .site-main {
+  position: relative;
+  min-height: 100vh;
+}
+
+main .site-content {
+  padding-bottom: 2.5rem;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
